@@ -1,2 +1,8 @@
 # Tesis
-Repositorio de códigos y scripts usados para el trabajo del curso de Tesis 2
+Repositorio de códigos y scripts usados para el trabajo del curso de Tesis 2.
+
+Por las limitaciones de la página, las bases de datos se encuentran en los siguientes links:
+
+* Descripciones: https://www.kaggle.com/alonsopuente/kickstarter-projects-descriptions
+* Metainformación: https://www.kaggle.com/alonsopuente/kickstarter-projects-metadata
+* Imágenes: https://www.kaggle.com/alonsopuente/kickstarter-projects-images
