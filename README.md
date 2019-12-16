@@ -1,4 +1,4 @@
-# Tesis
+# Trabajo de Tesis 2 - Material completo
 Repositorio de códigos y scripts usados para el trabajo del curso de Tesis 2.
 
 Por las limitaciones de la página, las bases de datos se encuentran en los siguientes links:
