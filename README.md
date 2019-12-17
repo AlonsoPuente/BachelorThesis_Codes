@@ -6,3 +6,6 @@ Por las limitaciones de la página, las bases de datos se encuentran en los sigu
 * Descripciones: https://www.kaggle.com/alonsopuente/kickstarter-projects-descriptions
 * Metainformación: https://www.kaggle.com/alonsopuente/kickstarter-projects-metadata
 * Imágenes: https://www.kaggle.com/alonsopuente/kickstarter-projects-images
+
+Los modelos entrenados guardados se encuentran comprimidos en el siguiente enlace:
+https://www.kaggle.com/alonsopuente/modelos-entrenados-tesis
