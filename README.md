@@ -1,11 +1,11 @@
-# Trabajo de Tesis 2 - Material completo
-Repositorio de códigos y scripts usados para el trabajo del curso de Tesis 2 y obtención del Bachiller de Ingeniería de Tecnologías de Información y Sistemas.
+# Thesis Work II - Full material
+Repository of Jupyter Notebook (Python) scripts used for the course "Thesis Work II" as the final project of Information Technology and Systems Engineering career.
 
-Por las limitaciones de la página, las bases de datos se encuentran en los siguientes links:
+Due to page limitations, databases are found in the following links:
 
-* Descripciones: https://www.kaggle.com/alonsopuente/kickstarter-projects-descriptions
-* Metainformación: https://www.kaggle.com/alonsopuente/kickstarter-projects-metadata
-* Imágenes: https://www.kaggle.com/alonsopuente/kickstarter-projects-images
+* Descriptions: https://www.kaggle.com/alonsopuente/kickstarter-projects-descriptions
+* Metadata: https://www.kaggle.com/alonsopuente/kickstarter-projects-metadata
+* Images: https://www.kaggle.com/alonsopuente/kickstarter-projects-images
 
-Los modelos entrenados guardados se encuentran comprimidos en el siguiente enlace:
+Saved trained models are zipped in the following link:
 https://www.kaggle.com/alonsopuente/modelos-entrenados-tesis
